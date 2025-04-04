@@ -1,0 +1,6 @@
+software_name,version,author,release_date,modification_date,dependencies,filename
+BetaWare,3.4,Jamie Rice,2024-06-23,2024-08-07,- LibX 2.2,BetaWare_v3.4.pdf
+AlphaSoft,4.6,Craig Jones,2020-01-26,2022-02-28,- LibX 2.1,AlphaSoft_v4.6.pdf
+EpsilonTool,2.0,Jennifer Rodriguez,2020-08-16,2021-04-01,- AIEngine 3.4,EpsilonTool_v2.0.pdf
+GammaSuite,2.0,Victor Lynch,2024-05-05,2024-08-08,- GraphV 5.0,GammaSuite_v2.0.pdf
+DeltaApp,1.4,Christopher Diaz,2022-07-14,2023-09-26,- CoreLib 1.2,DeltaApp_v1.4.pdf

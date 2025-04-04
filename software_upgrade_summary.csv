@@ -1,0 +1,6 @@
+Software,Current Version,Upgrade Version,New Features,Fixed Issues,Known Issues
+AlphaSoft,"(3, 8)","(3, 9)","Real-time collaboration, Faster encryption","Patched security vulnerability, Fixed toolbar bug",Occasional freezes in large projects
+BetaWare,"(2, 2)","(2, 3)","AI-based file search, New user dashboard","Fixed auto-update issue, Resolved sync delay",UI lag when handling bulk files
+DeltaApp,"(4, 8)","(4, 9)","New voice command features, Faster AI training","Fixed model loading error, Resolved log overflow",Compatibility issues with older CPUs
+EpsilonTool,"(4, 8)","(4, 9)","Integrated cloud-based processing, Enhanced analytics","Fixed script execution bug, Resolved import issue",High GPU usage on large computations
+GammaSuite,"(3, 0)","(3, 1)","Customizable themes, Improved export formats","Fixed graph distortion bug, Resolved scaling issue",Performance drops with large datasets
